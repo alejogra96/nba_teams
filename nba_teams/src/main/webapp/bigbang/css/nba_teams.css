@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* nba_teams classes */
+.title_container {text-align:center}
+.button_div{text-align:center}
+.table{margin-left:auto; margin-right:auto; width:350px}
+
+/* nba_teams id */
+
+
+
+
+
+/* add team classes */
+.add-title{text-align:center}
+.add-form{text-align:center}
+.spacer-div{height:20px}
+
+
+/* add team id */
+#top-img-add{width:300px; height:70px}
